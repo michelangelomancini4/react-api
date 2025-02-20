@@ -8,8 +8,6 @@ function App() {
   return (
     <>
 
-      <h1>Citazioni illustri</h1>
-
       <ArticlesList />
 
     </>
